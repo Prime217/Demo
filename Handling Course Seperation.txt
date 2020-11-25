@@ -1,0 +1,1 @@
+To create IT and CompSci Students run either IT or CompSci and use (>CompSci.txt or >IT.txt)
